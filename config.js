@@ -52,7 +52,7 @@ global.APIKeys = { // APIKey Here
 // Sticker WM
 global.botname = 'kebbyBot'
 global.premium = 'true'
-global.packname = 'GURU┃ᴮᴼᵀ' 
+global.packname = 'KEBBYGURUBOT'
 global.author = 'kebby.jr2024 
 global.menuvid = 'https://i.imgur.com/0y5uHVh.mp4'
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
